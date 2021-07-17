@@ -35,7 +35,7 @@ If you prefer to seed the DB with 10 rows run
 
 * **Data Params**
 
-  targetUrl=[string]
+  targetUrl=string
 
 * **Success Response:**
 
@@ -101,7 +101,7 @@ If you prefer to seed the DB with 10 rows run
 
 * **Data Params**
 
-  id=[number]
+  id=number
 
 * **Success Response:**
 
@@ -122,7 +122,7 @@ If you prefer to seed the DB with 10 rows run
 
 * **Data Params**
 
-  id=[number]
+  id=number
 
 * **Success Response:**
 
@@ -143,7 +143,7 @@ If you prefer to seed the DB with 10 rows run
 
 * **Data Params**
 
-  ip=[string]
+  ip=string
 
 * **Success Response:**
 
